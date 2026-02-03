@@ -4,7 +4,9 @@
 
 <h3>Модуль 1: Знакомство с ClickHouse</h3>
 <ul> 
-  <li  href="/OTUS-ClickHouse-theory/blob/main/lessons/Аналитические СУБД.md"> Аналитические движки</li>
+  <li>  
+    <a href="/OTUS-ClickHouse-theory/blob/main/lessons/Аналитические СУБД.md"> Аналитические движки </a>
+  </li>
   <li>Область применения и первое представление</li>
   <li>Развертывание и базовая конфигурация, интерфейсы и инструменты</li>
   <li>MergeTree и типы данных</li> 
