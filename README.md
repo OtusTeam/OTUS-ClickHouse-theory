@@ -33,7 +33,7 @@
     <a href="./lessons/indexes.md"> Индексы в ClickHouse</a>
   </li>
   <li>
-    Другие движки
+    <a href="./lessons/other.md"> Другие движки</a>
   </li>
   <li>
     Джоины и агрегации
