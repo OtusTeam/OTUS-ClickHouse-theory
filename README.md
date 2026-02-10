@@ -11,8 +11,8 @@
     <a href="./lessons/application.md"> Область применения и первое представление </a>
   </li>
   <li> 
-    <a href="./lessons/basicconfiguration.md> Развертывание и базовая конфигурация, интерфейсы и инструменты </a>
-      </li>
+    <a href="./lessons/basicconfiguration.md"> Развертывание и базовая конфигурация, интерфейсы и инструменты </a>
+  </li>
   <li>MergeTree и типы данных</li> 
 </ul>
 
