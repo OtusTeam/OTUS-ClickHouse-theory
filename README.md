@@ -67,10 +67,3 @@
   <li>PG/Greenplum</li>
   <li>ClickHouse и dbt</li>
 </ul>
-
-<h3>Сообщество</h3>
-<ul> 
-  <li>Чат / Telegram: https://t.me/clickhouse_ru — официальный чат ClickHouse, самое популярное и активное место для получения поддержки и ответа на вопросы.</li>
-  <li>Документация: https://clickhouse.com/docs — место, в которое отправляют в чате, когда не хотят отвечать на простые вопросы.</li>
-  <li>GitHub: https://github.com/ClickHouse/ClickHouse — код ClickHouse, а также issue-трекер с актуальными проблемами.</li>
-</ul>
