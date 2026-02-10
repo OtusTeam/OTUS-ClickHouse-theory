@@ -27,7 +27,7 @@
     <a href="./lessons/functions.md"> Функции для работы с типами данных, агрегатные функции и UDF </a>
   </li>
   <li>
-    Движки MergeTree Family
+    <a href="./lessons/mergetree2.md"> Движки MergeTree Family </a>
   </li>
   <li>
     Индексы в ClickHouse
