@@ -5,9 +5,11 @@
 <h3>Модуль 1: Знакомство с ClickHouse</h3>
 <ul> 
   <li>  
-    <a href="./lessons/analyticaldatabases.md"> Аналитические движки </a>
+    <a href="./lessons/analyticaldatabases"> Аналитические движки </a>
   </li>
-  <li>Область применения и первое представление</li>
+  <li>
+    <a href="./lessons/"> Область применения и первое представление </a>
+  </li>
   <li>Развертывание и базовая конфигурация, интерфейсы и инструменты</li>
   <li>MergeTree и типы данных</li> 
 </ul>
