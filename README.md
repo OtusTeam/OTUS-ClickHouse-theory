@@ -30,7 +30,7 @@
     <a href="./lessons/mergetree2.md"> Движки MergeTree Family </a>
   </li>
   <li>
-    Индексы в ClickHouse
+    <a href="./lessons/indexes.md"> Индексы в ClickHouse </a>
   </li>
   <li>
     Другие движки
