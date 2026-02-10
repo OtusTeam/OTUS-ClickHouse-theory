@@ -13,7 +13,9 @@
   <li> 
     <a href="./lessons/basicconfiguration.md"> Развертывание и базовая конфигурация, интерфейсы и инструменты </a>
   </li>
-  <li>MergeTree и типы данных</li> 
+  <li>  
+    <a href="./lessons/mergetree.md"> MergeTree и типы данных </a>
+  </li> 
 </ul>
 
 <h3>Модуль 2: Работа с ClickHouse</h3>
