@@ -24,7 +24,7 @@
     <a href="./lessons/sql.md"> Язык запросов SQL</a> 
   </li>
   <li>
-    Функции для работы с типами данных, агрегатные функции и UDF
+    <a href="./lessons/functions.md"> Функции для работы с типами данных, агрегатные функции и UDF </a>
   </li>
   <li>
     Движки MergeTree Family
