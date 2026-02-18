@@ -87,12 +87,12 @@
 <h3> Сообщество </h3>
 <ul> 
   <li>
-    <a href=" https://t.me/clickhouse_ru"> Чат / Telegram </a> — официальный чат ClickHouse, самое популярное и активное место для получения поддержки и ответа на вопросы.
+    <a href=" https://t.me/clickhouse_ru">Чат/Telegram</a> — официальный чат ClickHouse, самое популярное и активное место для получения поддержки и ответа на вопросы.
   </li>
 <li>
-  <a href="https://clickhouse.com/docs"> Документация </a>— место, где вы можете найти ответ на многие вопросы.
+  <a href="https://clickhouse.com/docs">Документация</a>— место, где вы можете найти ответ на многие вопросы.
 </li>
 <li> 
-  <a href="https://github.com/ClickHouse/ClickHouse"> GitHub </a> — код ClickHouse, а также issue-трекер с актуальными проблемами. 
+  <a href="https://github.com/ClickHouse/ClickHouse">GitHub</a> — код ClickHouse, а также issue-трекер с актуальными проблемами. 
 </li>
 </ul>
