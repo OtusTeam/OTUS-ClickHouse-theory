@@ -65,7 +65,7 @@
      <a href="./lessons/rbac.md">RBAC контроль доступа, квоты и ограничения</a>
   </li>
   <li>
-    Storage Policy и резервное копирование
+    <a href="./lessons/storage.md"> Storage Policy и резервное копирование </a>
   </li>
   <li>
     Метрики и мониторинг. Логирование
