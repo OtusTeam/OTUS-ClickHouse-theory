@@ -84,7 +84,7 @@
     <a href="./lessons/kafka.md"> Интеграция с Kafka и подводные камни </a>
   </li>
   <li>
-    Интеграции с BI-инструментами
+    <a href="./lessons/bi.md"> Интеграции с BI-инструментами </a>
   </li>
   <li>
     PG/Greenplum
