@@ -81,7 +81,7 @@
     <a href="./lessons/tools.md"> Оркестраторы/DI Tools </a>
   </li>
   <li>
-    Интеграция с Kafka и подводные камни
+    <a href="./lessons/kafka.md"> Интеграция с Kafka и подводные камни </a>
   </li>
   <li>
     Интеграции с BI-инструментами
