@@ -78,7 +78,7 @@
 <h3>Модуль 5: Популярные интеграции</h3>
 <ul> 
   <li>
-    <a href="./lessons/tools.md"> dОркестраторы/DI Tools </a>
+    <a href="./lessons/tools.md"> Оркестраторы/DI Tools </a>
   </li>
   <li>
     Интеграция с Kafka и подводные камни
