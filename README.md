@@ -90,7 +90,7 @@
     <a href="./lessons/greenplum.md"> PG/Greenplum </a>
   </li>
   <li>
-    ClickHouse и dbt
+    <a href="./lessons/dbt.md"> ClickHouse и dbt </a>
   </li>
 </ul>
 
