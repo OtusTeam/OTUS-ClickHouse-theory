@@ -77,11 +77,21 @@
 
 <h3>Модуль 5: Популярные интеграции</h3>
 <ul> 
-  <li>Оркестраторы/DI Tools</li>
-  <li>Интеграция с Kafka и подводные камни</li>
-  <li>Интеграции с BI-инструментами</li>
-  <li>PG/Greenplum</li>
-  <li>ClickHouse и dbt</li>
+  <li>
+    <a href="./lessons/tools.md"> dОркестраторы/DI Tools </a>
+  </li>
+  <li>
+    Интеграция с Kafka и подводные камни
+  </li>
+  <li>
+    Интеграции с BI-инструментами
+  </li>
+  <li>
+    PG/Greenplum
+  </li>
+  <li>
+    ClickHouse и dbt
+  </li>
 </ul>
 
 <h3> Сообщество </h3>
