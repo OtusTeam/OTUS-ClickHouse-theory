@@ -87,7 +87,7 @@
     <a href="./lessons/bi.md"> Интеграции с BI-инструментами </a>
   </li>
   <li>
-    PG/Greenplum
+    <a href="./lessons/greenplum.md"> PG/Greenplum </a>
   </li>
   <li>
     ClickHouse и dbt
